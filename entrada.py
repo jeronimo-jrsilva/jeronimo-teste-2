@@ -1,0 +1,1 @@
+# Entrada em input em python
